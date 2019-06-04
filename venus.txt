@@ -1,4 +1,5 @@
 Venus seems cool as well.
 Let's go there.
 Venus is beautiful and full of love
-Hello Max! It is good to talk on venus.
+<<<<<<< HEAD
+Hello Max! It is good to talk on dull venus>>>>>>> eb4ec39562dfa4d5a0d7de50915ff686536c2ebb
